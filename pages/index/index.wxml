@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<web-view src="https://app.elan-fashion.com/elanClient"></web-view> 
+
